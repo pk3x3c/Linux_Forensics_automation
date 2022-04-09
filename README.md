@@ -14,6 +14,9 @@ Bash
 3. chmod +x linux_forensics.sh
 4. ./linux_forensics.sh -d /tmp/forensics
 
+![test](https://user-images.githubusercontent.com/53575624/162588541-a9414e90-7010-4774-92bd-02c80c942f69.PNG)
+
+
 ## Help Menu
 Usage: ./linux_forensics.sh [-d] <directory_name> [-h]
 
