@@ -26,3 +26,5 @@ default direcotory = linux_forensics
 
 Example: ./linux_forensics -d /tmp/forensics
 
+------------------
+More featurees will be coming soon....
